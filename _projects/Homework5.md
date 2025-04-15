@@ -1,8 +1,7 @@
 ---
----
 name: Homework 5
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/bigfoot.webp
 description: This is my homework 5 post!
 custom_js:
   - vega.min
