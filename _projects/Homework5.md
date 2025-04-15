@@ -36,7 +36,7 @@ Below is where we can put some links to both the data and the analysis code as b
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/jorgeyoshi/jorgeyoshi/blob/main/python_notebooks/hw5%20notebook.ipynb" text="The Analysis" %}
 </div>
 ```
 
@@ -47,5 +47,5 @@ Below is where we can put some links to both the data and the analysis code as b
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/jorgeyoshi/jorgeyoshi/blob/main/python_notebooks/hw5%20notebook.ipynb" text="The Analysis" %}
 </div>
