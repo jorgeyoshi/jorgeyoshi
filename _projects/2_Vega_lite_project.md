@@ -1,7 +1,7 @@
 ---
 name: TEST TEST TEST
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image:
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
   - vega.min
@@ -24,6 +24,17 @@ We can use a vegachart HTML tag like so:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_dashboard.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/finalmap.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/homework5map.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/hw5test.json" style="width: 100%"></vegachart>
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/population_scatter.json" style="width: 100%"></vegachart>
+
 
 In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
 
