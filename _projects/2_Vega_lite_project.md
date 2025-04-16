@@ -37,7 +37,7 @@ We can use a vegachart HTML tag like so:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hw5test2.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/testchart" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/testchart.json" style="width: 100%"></vegachart>
 
 
 
