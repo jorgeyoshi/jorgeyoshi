@@ -23,24 +23,9 @@ We can use a vegachart HTML tag like so:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_dashboard.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/finalmap.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/homework5map.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/hw5test.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/population_scatter.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/hw5test2.json" style="width: 100%"></vegachart>
-
 <vegachart schema-url="{{ site.baseurl }}/assets/json/testchart.json" style="width: 100%"></vegachart>
 
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/hw5test3.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/hw5test4.json" style="width: 100%"></vegachart>
 
 
 
